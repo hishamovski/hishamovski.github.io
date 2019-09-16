@@ -102,12 +102,13 @@
 
 .masthead h1 {
   font-family: 'Varela Round';
-  font-size: 1.5rem;
-  line-height: 1.5rem;
-  letter-spacing: 0.4rem;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  letter-spacing: 0.3rem;
   background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  max-width: 30rem;
 }
 
 .masthead h2 {
